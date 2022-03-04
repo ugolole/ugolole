@@ -2,14 +2,14 @@
 <h3 align="center">Thanks for stopping by ☕💻</h3>
 
 <div align="center">
-<img src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif" width="500px" />
+<img src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif" width="300px" />
 </div>
 
-- 🌐 I'm a **full-stack software engineer with a soft spot for .Net and Angular**
+- 🌐 I'm a **full-stack software engineer with an interest in .Net and Angular**
 
 - 🔭 Currently I'm working on my **battle 🤺 snake 🐍**
 
-- 👯 I’m looking to collaborate on **projects with a focus on accessibility and real-world utility**
+- 👯 I’m looking to collaborate on **Machine learning and AI**
 
 - 💬 Ask me about **dynamically adapting questionnaires**
 
